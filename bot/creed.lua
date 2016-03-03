@@ -243,10 +243,10 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @Lover4Live
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @ mehdijockers
+   ߔࠀ   @ Lover4Live
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
